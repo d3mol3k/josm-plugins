@@ -1431,6 +1431,18 @@
 	pl.long_name="Uprzedza o miejscu lub odcinku drogi, na którym prędkość jazdy jest kontrolowana i rejestrowana przez urządzenia działające samoczynnie.;"
 	>
 </sign>
+	
+<sign ref="PL:D-51a" name="automatyczna kontrola średniej prędkości" pl.name="automatyczna kontrola średniej prędkości"
+	long_name=""
+	pl.long_name="Uprzedza o początku odcinka drogi, na którym prędkość jazdy jest kontrolowana i rejestrowana przez urządzenia działające samoczynnie na zadanym odcinku tej drogi.;"
+	>
+</sign>
+
+<sign ref="PL:D-51b" name="automatyczna kontrola średniej prędkości" pl.name="koniec automatycznej kontroli średniej prędkości”"
+	long_name=""
+	pl.long_name="Uprzedza o końcu odcinku drogi, na którym prędkość jazdy jest kontrolowana i rejestrowana przez urządzenia działające samoczynnie na zadanym odcinku tej drogi.;"
+	>
+</sign>
 
 <sign ref="PL:D-52" name="strefa ruchu" pl.name="strefa ruchu"
 	long_name=""
@@ -1444,7 +1456,18 @@
 	>
 </sign>
 
+<sign ref="PL:D-54" name="strefa czystego transportu" pl.name="strefa czystego transportu"
+	long_name=""
+	pl.long_name="Stosuje się w celu oznakowania strefy czystego transportu. Znak ten umieszcza się na początku strefy czysteego transportu na wszystkich drogach doprowadzających do niej ruch. Decyzję o ustaleniu takiej strefy podejmuje zarządca (czyli właściciel) terenu, na którym położona jest strefa czystego transportu. W strefie cystego transportu stosuje się znaki takie jak na drogach wewnętrznych.;"
+	>
+</sign>
 
+<sign ref="PL:D-553" name="koniec strefy czystego transportu" pl.name="koniec strefy czystego transportu"
+	long_name=""
+	pl.long_name="Stosuje się w celu wyjazdu pojazdu z drogi wewnętrznej położonej w strefie czystego transportu położoną na drogę publiczną zarządzaną przez administrację rządową lub samorządową. Znak ten umieszcza się na wszystkich drogach wylotowych ze strefy oznakowanej znakami D-54,w tym samym przekroju poprzecznym drogi co znak D-54. Znak ten może być umieszczany po lewej stronie jezdni, na odwrotnej stronie znaku D-54.;"
+	>
+</sign>
+	
 <sign ref="PL:T-1[$val]" id="PL:T-1" name="tabliczka wskazująca odległość znaku ostrzegawczego od miejsca niebezpiecznego" pl.name="tabliczka wskazująca odległość znaku ostrzegawczego od miejsca niebezpiecznego"
 	supplementary="yes"
 	long_name=""
